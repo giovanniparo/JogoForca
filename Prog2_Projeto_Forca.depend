@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1591400152 source:d:\programing\c\prog2_projeto_forca\main.c
+	"main.h"
+
+1590017438 d:\programing\c\prog2_projeto_forca\mydataproc.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<locale.h>
+
+1590017641 source:d:\programing\c\prog2_projeto_forca\mydataproc.c
+	"mydataproc.h"
+
+1590629867 source:d:\programing\c\prog2_projeto_forca\dataproc.c
+	"dataproc.h"
+
+1590625497 d:\programing\c\prog2_projeto_forca\dataproc.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<locale.h>
+	<time.h>
+	<ctype.h>
+	"mydefs.h"
+
+1590108288 d:\programing\c\prog2_projeto_forca\main.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<locale.h>
+	"dataproc.h"
+	"graph.h"
+	"mydefs.h"
+
+1590628537 d:\programing\c\prog2_projeto_forca\graph.h
+	<stdio.h>
+	<stdlib.h>
+	"dataproc.h"
+	"mydefs.h"
+
+1590667652 source:d:\programing\c\prog2_projeto_forca\graph.c
+	"graph.h"
+
+1590629197 d:\programing\c\prog2_projeto_forca\mydefs.h
+
